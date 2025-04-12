@@ -11,7 +11,7 @@ Digital Project Manager | Data-Driven Marketing Specialist
 🎮 Video Game Market Analysis (1980-2016)
 Leveraged SQL and Power BI to uncover key industry trends: 
 - Analyzed **16,598 game titles** using SQL and Power BI to uncover:
-- Regional market trends (NA vs EU vs JP)
+- Regional market trends (NA vs EU vs JP vs Other markets)
 - Platform dominance patterns
   
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/video-games-sales-analysis)
