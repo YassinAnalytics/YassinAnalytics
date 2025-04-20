@@ -4,7 +4,7 @@ Digital Project Manager | Data-Driven Marketing Specialist
 
 📍 Paris | 6+ years in international digital project management
 
-🎓 Master's in Marketing | Currently upskilling in Data Analytics
+🎓 Master's degree in Marketing | Currently upskilling in Data Analytics
 
 ## Featured Project :
 
