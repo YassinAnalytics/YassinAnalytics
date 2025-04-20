@@ -15,6 +15,15 @@ Leveraged SQL and Power BI to uncover key industry trends:
 - Platform dominance patterns
   
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/video-games-sales-analysis)
+
+
+📊 TikTok Virality Analysis | In Progress  
+*What factors (influencer traits, content features) most strongly predict TikTok video popularity? Can we identify high-engagement influencer profiles?*  
+
+![Status: Active Development](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellowgreen)  
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
+![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
 <!--
 **YassinAnalytics/YassinAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
