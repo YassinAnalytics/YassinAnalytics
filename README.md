@@ -6,7 +6,7 @@ Digital Project Manager | Data-Driven Marketing Specialist
 
 🎓 Master's degree in Marketing | Currently upskilling in Data Analytics
 
-## Featured Project :
+## Featured Projects :
 
 🎮 Video Game Market Analysis (1980-2016)
 Leveraged SQL and Power BI to uncover key industry trends: 
