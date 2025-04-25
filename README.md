@@ -14,16 +14,25 @@ Leveraged SQL and Power BI to uncover key industry trends:
 - Regional market trends (NA vs EU vs JP vs Other markets)
 - Platform dominance patterns
   
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
+![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/video-games-sales-analysis)
 
 
-📊 TikTok Virality Analysis | In Progress  
-*What factors (influencer traits, content features) most strongly predict TikTok video popularity? Can we identify high-engagement influencer profiles?*  
 
-![Status: Active Development](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellowgreen)  
+
+📊 TikTok Virality Analysis | In Progress  
+What drives engagement on TikTok? A data dive into 19K videos
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/tiktok-engagement-analysis)
+
 <!--
 **YassinAnalytics/YassinAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
