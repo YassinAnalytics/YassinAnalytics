@@ -8,8 +8,7 @@ Digital Project Manager | Data-Driven Marketing Specialist
 
 ## Featured Projects :
 
-🎮 Video Game Market Analysis (1980-2016)
-Leveraged SQL and Power BI to uncover key industry trends: 
+🎮 Video Game Market Analysis (1980-2016). Leveraged SQL and Power BI to uncover key industry trends: 
 - Analyzed **16,598 game titles** using SQL and Power BI to uncover:
 - Regional market trends (NA vs EU vs JP vs Other markets)
 - Platform dominance patterns
@@ -23,8 +22,7 @@ Leveraged SQL and Power BI to uncover key industry trends:
 
 
 
-📊 TikTok Engagement Analysis 
-What drives engagement on TikTok? A data dive into 19K videos
+📊 TikTok Engagement Analysis. What drives engagement on TikTok? A data dive into 19K videos
 - Processed 19K videos to determine engagement drivers
 - Discovered likes account for 82% of total engagement
 - Developed correlation models between views, shares, and comments
