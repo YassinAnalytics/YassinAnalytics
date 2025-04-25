@@ -23,7 +23,7 @@ Leveraged SQL and Power BI to uncover key industry trends:
 
 
 
-📊 TikTok Virality Analysis | In Progress  
+📊 TikTok Virality Analysis 
 What drives engagement on TikTok? A data dive into 19K videos
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
