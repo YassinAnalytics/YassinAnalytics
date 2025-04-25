@@ -23,7 +23,7 @@ Leveraged SQL and Power BI to uncover key industry trends:
 
 
 
-📊 TikTok Analysis 
+📊 TikTok Engagement Analysis 
 What drives engagement on TikTok? A data dive into 19K videos
 - Processed 19K videos to determine engagement drivers
 - Discovered likes account for 82% of total engagement
