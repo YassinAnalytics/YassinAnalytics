@@ -1,6 +1,6 @@
 ## Hi, I'm Yassin 👋
 
-Digital Project Manager | Data-Driven Specialist
+Digital Project Manager | Data-Driven Project Management Specialist
 
 📍 Paris | 6+ years managing international digital projects
 
