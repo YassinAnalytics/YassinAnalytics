@@ -1,10 +1,10 @@
 ## Hi, I'm Yassin 👋
 
-Digital Project Manager | Data-Driven Marketing Specialist
+Digital Project Manager | Data-Driven Specialist
 
-📍 Paris | 6+ years in international digital project management
+📍 Paris | 6+ years managing international digital projects
 
-🎓 Master's degree in Marketing | Currently upskilling in Data Analytics
+🎓 Master's degree in Marketing | Currently upskilling in Data Analytics & Business Intelligence
 
 ## Featured Projects :
 
