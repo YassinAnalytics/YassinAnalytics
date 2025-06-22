@@ -1,10 +1,6 @@
 ## Hi, I'm Yassin 👋
-
-IT Project Manager | Data-Driven Project Management Specialist
-
-📍 Paris | 6+ years managing international digital projects
-
-🎓 Master's degree in Marketing | Currently upskilling in Data Analytics & Business Intelligence
+IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
+📍 Paris | Scaling tech products with data-driven project management
 
 ## Featured Projects :
 
