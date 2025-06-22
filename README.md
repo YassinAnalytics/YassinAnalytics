@@ -1,5 +1,6 @@
 ## Hi, I'm Yassin 👋
 IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
+
 📍 Paris | Scaling tech products with data-driven project management
 
 ## Featured Projects :
