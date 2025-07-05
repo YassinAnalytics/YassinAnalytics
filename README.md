@@ -32,9 +32,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/tiktok-engagement-analysis)
 
 
-📊 Retail Analytics Dashboard - Case Study
-
-SaaS solution replacing complex Power BI for omnichannel retailers
+📊 Retail Analytics Dashboard - Case Study : SaaS solution replacing complex Power BI for omnichannel retailers
 - 62% faster decisions with AI alerts
 - 100% adoption by non-technical teams
 - 22% reduction in out-of-stock situations
