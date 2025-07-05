@@ -41,7 +41,6 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
-![Python](https://img.shields.io/badge/Python-ML_models-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-Data_warehouse-lightgrey)
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma&style=flat)
   
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/saas-analytics-retail)
