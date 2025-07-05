@@ -31,6 +31,22 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/tiktok-engagement-analysis)
 
+
+# 📊 Retail Analytics Dashboard - Case Study
+
+**SaaS solution replacing complex Power BI for omnichannel retailers**
+- 62% faster decisions with AI alerts
+- 100% adoption by non-technical teams
+- 22% reduction in out-of-stock situations
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
+![Python](https://img.shields.io/badge/Python-ML_models-blue?logo=python) ![SQL](https://img.shields.io/badge/SQL-Data_warehouse-lightgrey)
+[![Figma](https://img.shields.io/badge/Figma-UI/UX_Design-orange?logo=figma&style=for-the-badge)](https://figma.com/)
+  
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/saas-analytics-retail)
+
+
 <!--
 **YassinAnalytics/YassinAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
