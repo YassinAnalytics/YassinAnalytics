@@ -34,7 +34,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 📊 Retail Analytics Dashboard - Case Study
 
-**SaaS solution replacing complex Power BI for omnichannel retailers**
+SaaS solution replacing complex Power BI for omnichannel retailers
 - 62% faster decisions with AI alerts
 - 100% adoption by non-technical teams
 - 22% reduction in out-of-stock situations
