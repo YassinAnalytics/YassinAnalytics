@@ -44,6 +44,20 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/saas-analytics-retail)
 
 
+
+⚽️ MPG Player Recommender – Fantasy football picks optimizer  
+Built with Python and Power BI to surface undervalued players on Mon Petit Gazon (Premier League):
+
+  • Fetched and cleaned **531** player records via MPG   
+  • Engineered features: recent form (last 5 matches), cost-value ratio, position scarcity  
+  • Deployed interactive dashboards: **Power BI** template 
+
+![Status: In Progress](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow)
+![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)    
+
+
+
 <!--
 **YassinAnalytics/YassinAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
