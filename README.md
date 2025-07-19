@@ -19,7 +19,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 
 
-📊 TikTok Engagement Analysis. What drives engagement on TikTok? A data dive into 19K videos
+📊 TikTok Engagement Analysis. What drives engagement on TikTok? A data dive into 19K videos:
 - Processed 19K videos to determine engagement drivers
 - Discovered likes account for 82% of total engagement
 - Developed correlation models between views, shares, and comments
@@ -32,7 +32,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/tiktok-engagement-analysis)
 
 
-📊 Retail Analytics Dashboard - Case Study : SaaS solution replacing complex Power BI for omnichannel retailers
+📊 Retail Analytics Dashboard - Case Study : SaaS solution replacing complex Power BI for omnichannel retailers:
 - 62% faster decisions with AI alerts
 - 100% adoption by non-technical teams
 - 22% reduction in out-of-stock situations
