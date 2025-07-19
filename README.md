@@ -52,7 +52,7 @@ Built with Python and Power BI to surface undervalued players on Mon Petit Gazon
   • Engineered features: recent form (last 5 matches), cost-value ratio, position scarcity  
   • Deployed interactive dashboards: **Power BI** template 
 
-![Status: In Progress](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow)
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)    
 
