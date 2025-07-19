@@ -56,7 +56,7 @@ Built with Python and Power BI to surface undervalued players on Mon Petit Gazon
 ![PowerBI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)    
 
-[![GitHub](https://github.com/YassinAnalytics/recommender-fantasy-football-picker)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/recommender-fantasy-football-picker)
 
 <!--
 **YassinAnalytics/YassinAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
