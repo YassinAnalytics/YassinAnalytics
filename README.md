@@ -8,7 +8,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 🤖 **Telegram Daily Calendar Assistant**  
 Automated workflow delivering daily agenda summaries via Telegram:  
 - Automates calendar monitoring using n8n workflows  
-- Delivers personalized morning briefings at 8 AM  
+- Delivers personalized morning briefings at 7 AM  
 - Integrates Google Calendar → Telegram via API magic  
 
 ![Status: In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-blue)  
