@@ -11,12 +11,12 @@ Automated workflow delivering daily agenda summaries via Telegram:
 - Delivers personalized morning briefings at 7 AM  
 - Integrates Google Calendar → Telegram via API magic  
 
-![Status: In Progress](https://img.shields.io/badge/STATUS-IN_PROGRESS-blue)  
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)  
 ![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)  
 ![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram&style=flat)  
 
-![GitHub](https://img.shields.io/badge/View_on_GitHub_soon-181717?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Daily-Calendar-Summary-Notifications-via-Telegram-from-Google-Calendar)
 
 🎮 Video Game Market Analysis (1980-2016). Leveraged SQL and Power BI to uncover key industry trends: 
 - Analyzed **16,598 game titles** using SQL and Power BI to uncover:
