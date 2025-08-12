@@ -12,7 +12,6 @@ Automated workflow delivering daily agenda summaries via Telegram:
 - Integrates Google Calendar → Telegram via API magic  
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
-
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)  
 ![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)  
 ![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram&style=flat)  
