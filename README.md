@@ -18,7 +18,7 @@ Automated workflow delivering daily agenda summaries via Telegram:
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Daily-Calendar-Summary-Notifications-via-Telegram-from-Google-Calendar)
 
-🎮 Video Game Market Analysis (1980-2016). Leveraged SQL and Power BI to uncover key industry trends: 
+🎮 **Video Game Market Analysis (1980-2016). Leveraged SQL and Power BI to uncover key industry trends** 
 - Analyzed **16,598 game titles** using SQL and Power BI to uncover:
 - Regional market trends (NA vs EU vs JP vs Other markets)
 - Platform dominance patterns
@@ -32,7 +32,7 @@ Automated workflow delivering daily agenda summaries via Telegram:
 
 
 
-📊 TikTok Engagement Analysis. What drives engagement on TikTok? A data dive into 19K videos:
+📊 **TikTok Engagement Analysis. What drives engagement on TikTok? A data dive into 19K videos**
 - Processed 19K videos to determine engagement drivers
 - Discovered likes account for 82% of total engagement
 - Developed correlation models between views, shares, and comments
@@ -45,7 +45,7 @@ Automated workflow delivering daily agenda summaries via Telegram:
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/tiktok-engagement-analysis)
 
 
-📊 Retail Analytics Dashboard - Case Study : SaaS solution replacing complex Power BI for omnichannel retailers:
+📊 **Retail Analytics Dashboard - Case Study : SaaS solution replacing complex Power BI for omnichannel retailers**
 - 62% faster decisions with AI alerts
 - 100% adoption by non-technical teams
 - 22% reduction in out-of-stock situations
@@ -58,7 +58,7 @@ Automated workflow delivering daily agenda summaries via Telegram:
 
 
 
-⚽️ MPG Player Recommender – Fantasy football picks optimizer  
+⚽️ **MPG Player Recommender – Fantasy football picks optimizer**  
 Built with Python and Power BI to surface undervalued players on Mon Petit Gazon (Premier League):
 
   • Fetched and cleaned **531** player records via MPG   
