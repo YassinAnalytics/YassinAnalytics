@@ -6,6 +6,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ## Featured Projects :
 
 🤖 **Telegram Daily Calendar Assistant**  
+
 Automated workflow delivering daily agenda summaries via Telegram:  
 - Automates calendar monitoring using n8n workflows  
 - Delivers personalized morning briefings at 7 AM  
