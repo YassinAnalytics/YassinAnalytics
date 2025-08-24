@@ -13,6 +13,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 
@@ -29,8 +30,10 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+![GoogleForms](https://img.shields.io/badge/Google_Forms-API-7248B9?logo=googleforms&style=flat)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Instant-Gmail-Notifications-for-Google-Form-Submissions)
 
@@ -48,6 +51,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+![GoogleForms](https://img.shields.io/badge/Google_Forms-API-7248B9?logo=googleforms&style=flat)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Consolidate-Daily-Google-Form-Submissions-into-One-Gmail-Recap)
 
