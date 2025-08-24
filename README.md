@@ -11,10 +11,10 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 - Supports structured note-taking with predefined columns (Topic, Status, Owner, Next Step)
 - Eliminates manual distribution of meeting summaries
 
-https://img.shields.io/badge/STATUS-PUBLISHED-brightgreen
-https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat
-https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
-https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automate-Meeting-Minutes-Distribution-with-Google-Sheets-and-Gmail)
 
@@ -27,10 +27,10 @@ https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
 - Delivers notifications within ~1 minute of submission
 - Perfect for time-sensitive workflows and urgent requests
 
-https://img.shields.io/badge/STATUS-PUBLISHED-brightgreen
-https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat
-https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
-https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Instant-Gmail-Notifications-for-Google-Form-Submissions)
 
@@ -46,8 +46,8 @@ https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
 ![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
-https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
-https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Consolidate-Daily-Google-Form-Submissions-into-One-Gmail-Recap)
 
