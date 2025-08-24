@@ -5,6 +5,53 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ## Featured Projects :
 
+📋 Automated Meeting Minutes Distribution
+- Streamlined workflow for sharing meeting notes via Gmail:
+- Automatically sends meeting minutes from Google Sheets to stakeholders
+- Supports structured note-taking with predefined columns (Topic, Status, Owner, Next Step)
+- Eliminates manual distribution of meeting summaries
+
+https://img.shields.io/badge/STATUS-PUBLISHED-brightgreen
+https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat
+https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
+https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automate-Meeting-Minutes-Distribution-with-Google-Sheets-and-Gmail)
+
+
+
+📧 Instant Google Form to Gmail Notifications
+
+- Real-time notification system for Google Form submissions:
+- Sends immediate email alerts for new form submissions
+- Delivers notifications within ~1 minute of submission
+- Perfect for time-sensitive workflows and urgent requests
+
+https://img.shields.io/badge/STATUS-PUBLISHED-brightgreen
+https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat
+https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
+https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Instant-Gmail-Notifications-for-Google-Form-Submissions)
+
+
+📧 Daily Google Form Submissions to Gmail Recap
+
+- Automated workflow consolidating daily form submissions into organized email summaries:
+- Aggregates all daily Google Form submissions into single digest
+- Delivers structured recap at scheduled time (default 5 PM)
+- Integrates Google Sheets → Gmail via n8n automation
+
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
+https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat
+https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Consolidate-Daily-Google-Form-Submissions-into-One-Gmail-Recap)
+
+
 🤖 **Telegram Daily Calendar Assistant**  
 
 Automated workflow delivering daily agenda summaries via Telegram:  
