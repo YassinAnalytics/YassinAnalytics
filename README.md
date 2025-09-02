@@ -5,6 +5,21 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ## Featured Projects :
 
+⚙️ Automate Jira Ticket Creation from a Streamlit App (via n8n)
+- Create Jira issues from a Streamlit form via an n8n webhook
+- Validate and map fields (Project Key, Issue Type, Priority, Labels, Assignee, Epic Link)
+- Return the created issue key and URL for instant follow-up
+- Include a compact dashboard to review recently created issues
+- Offer optional AI-style summaries generated locally (no external AI required)
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&style=flat)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Streamlit-Jira-Control-Center)
+
+
 📋 Automated Meeting Minutes Distribution
 - Streamlined workflow for sharing meeting notes via Gmail:
 - Automatically sends meeting minutes from Google Sheets to stakeholders
