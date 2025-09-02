@@ -30,6 +30,8 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/7429-automate-meeting-minutes-distribution-with-google-sheets-and-gmail)
+
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automate-Meeting-Minutes-Distribution-with-Google-Sheets-and-Gmail)
 
@@ -47,6 +49,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 ![GoogleForms](https://img.shields.io/badge/Google_Forms-API-7248B9?logo=googleforms&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/7432-instant-gmail-notifications-for-google-form-submissions)
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Instant-Gmail-Notifications-for-Google-Form-Submissions)
 
@@ -64,6 +67,8 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 ![GoogleForms](https://img.shields.io/badge/Google_Forms-API-7248B9?logo=googleforms&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/7431-consolidate-daily-google-form-submissions-into-one-gmail-recap)
+
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Consolidate-Daily-Google-Form-Submissions-into-One-Gmail-Recap)
 
@@ -79,6 +84,8 @@ Automated workflow delivering daily agenda summaries via Telegram:
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
 ![GoogleAPI](https://img.shields.io/badge/Google_Calendar-API-4285F4?logo=googlecalendar&style=flat)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/6952-daily-calendar-summary-notifications-via-telegram-from-google-calendar)
+
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Daily-Calendar-Summary-Notifications-via-Telegram-from-Google-Calendar)
 
