@@ -5,7 +5,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ## Featured Projects :
 
-🚀 Create-Jira-Tickets-from-Streamlit-Forms
+🚀 Create Jira Tickets from Streamlit Forms
 - Create Jira issues instantly from a Streamlit app
 - Validate & transform form data into Jira API schema
 - Prevent duplicate submissions with built-in safeguards
