@@ -5,6 +5,21 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 ## Featured Projects :
 
+🚀 Create-Jira-Tickets-from-Streamlit-Forms
+- Create Jira issues instantly from a Streamlit app
+- Validate & transform form data into Jira API schema
+- Prevent duplicate submissions with built-in safeguards
+- Return instant JSON responses with Jira issue key & URL
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&style=flat)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Create-Jira-Tickets-from-Streamlit-Forms)
+
+
 ⚙️ Automate Jira Ticket Creation from a Streamlit App (via n8n)
 - Create Jira issues from a Streamlit form via an n8n webhook
 - Validate and map fields (Project Key, Issue Type, Priority, Labels, Assignee, Epic Link)
