@@ -4,11 +4,10 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 📍 Paris | Scaling tech products with data-driven project management
 
 ## Featured Projects :
-🚀 Create Jira Tickets from Google Forms (via n8n)
+⚡ Create Jira Tickets from Google Forms (via n8n)
 
 - Capture responses directly from Google Forms and route them into Jira
 - Transform and map form fields into Jira issue schema automatically
-- Avoid duplicate ticket creation with n8n safeguards
 - Instantly return Jira issue key & URL for tracking
   
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
