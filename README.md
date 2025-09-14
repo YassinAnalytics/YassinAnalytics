@@ -10,6 +10,7 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 - Transform and map form fields into Jira issue schema automatically
 - Avoid duplicate ticket creation with n8n safeguards
 - Instantly return Jira issue key & URL for tracking
+  
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
