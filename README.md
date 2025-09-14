@@ -4,6 +4,21 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 📍 Paris | Scaling tech products with data-driven project management
 
 ## Featured Projects :
+🚀 Create Jira Tickets from Google Forms (via n8n)
+
+- Capture responses directly from Google Forms and route them into Jira
+- Transform and map form fields into Jira issue schema automatically
+- Avoid duplicate ticket creation with n8n safeguards
+- Instantly return Jira issue key & URL for tracking
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+![GoogleForms](https://img.shields.io/badge/Google_Forms-API-7248B9?logo=googleforms&style=flat)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Jira-Ticket-Creation-from-Google-Forms-with-Sheet-Updates-and-Email-Notifications)
+
 
 🚀 Create Jira Tickets from Streamlit Forms
 - Create Jira issues instantly from a Streamlit app
