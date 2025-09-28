@@ -4,12 +4,30 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 📍 Paris | Scaling tech products with data-driven project management
 
 ## Featured Projects :
+
+📊 Automated Sprint Reports from Jira to Gmail
+
+- Generate sprint reports automatically from Jira
+- Calculate KPIs (tickets, story points, blockers, completion rate)
+- Build HTML report with summary & detailed table
+- Send directly to stakeholders via Gmail on schedule
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/7429-automate-meeting-minutes-distribution-with-google-sheets-and-gmail)
+
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automated-Sprint-Reports-from-Jira-to-Stakeholders-via-Gmail)
+
 ⚡ Create Jira Tickets from Google Forms (via n8n)
 
 - Capture responses directly from Google Forms and route them into Jira
 - Transform and map form fields into Jira issue schema automatically
 - Instantly return Jira issue key & URL for tracking
-  
+
+ 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
 ![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
@@ -46,6 +64,8 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&style=flat)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/7429-automate-meeting-minutes-distribution-with-google-sheets-and-gmail)
+
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Streamlit-Jira-Control-Center)
 
