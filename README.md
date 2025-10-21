@@ -3,6 +3,11 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 📍 Paris | Scaling tech products with data-driven project management
 
+## 📝 Publications
+- [How I Used Machine Learning to Predict 41% of Project Delays Before They Happened](https://towardsdatascience.com/how-i-used-machine-learning-to-predict-41-of-project-delays-before-they-happened/)  
+  *Published on Towards Data Science*
+
+
 ## Featured Projects :
 
 📊 Automated Sprint Reports from Jira to Gmail
