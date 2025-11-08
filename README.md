@@ -22,8 +22,9 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 ![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
 ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
 
-[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://github.com/YassinAnalytics/Send-One-Time-Email-Alerts-for-Urgent-Tasks-with-Google-Sheets-and-Gmail)
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://n8n.io/workflows/9324-send-one-time-email-alerts-for-urgent-tasks-with-google-sheets-and-gmail/)
 
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Send-One-Time-Email-Alerts-for-Urgent-Tasks-with-Google-Sheets-and-Gmail)
 
 📊 Automated Sprint Reports from Jira to Gmail
 
