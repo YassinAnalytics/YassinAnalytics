@@ -9,6 +9,21 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 
 ## Featured Projects :
+📬 Send One-Time Email Alerts from Google Sheets (Anti-Spam)
+
+- Trigger an email when a task’s Priority = Urgent in Google Sheets
+- Prevent duplicates by writing “Notified” back to the sheet
+- Personalize the alert with Task, Owner, Deadline, Status, Next Step
+- Simple IF logic + update step for a clean, reliable alert flow
+- Plug-and-play with Google Sheets + Gmail credentials
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+
+[![Template Available](https://img.shields.io/badge/Template-Available-4C51BF?style=flat)](https://github.com/YassinAnalytics/Send-One-Time-Email-Alerts-for-Urgent-Tasks-with-Google-Sheets-and-Gmail)
+
 
 📊 Automated Sprint Reports from Jira to Gmail
 
