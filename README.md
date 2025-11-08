@@ -14,7 +14,6 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 - Trigger an email when a task’s Priority = Urgent in Google Sheets
 - Prevent duplicates by writing “Notified” back to the sheet
 - Personalize the alert with Task, Owner, Deadline, Status, Next Step
-- Simple IF logic + update step for a clean, reliable alert flow
 - Plug-and-play with Google Sheets + Gmail credentials
 
 ![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
