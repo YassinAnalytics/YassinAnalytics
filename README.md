@@ -1,5 +1,6 @@
 ## Hi, I'm Yassin 👋
 Project Manager | Product & Data Enablement (PSM I, PSPO I)
+
 📍 Paris | Turning project complexity into measurable outcomes through agile delivery & analytics
 
 ## 📝 Publications
