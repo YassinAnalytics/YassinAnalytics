@@ -9,6 +9,25 @@ IT Project Manager | Agile & Data Specialist (PSM I, PSPO I)
 
 
 ## Featured Projects :
+🚨 Urgent Task Escalation (Google Sheets → Gmail → Telegram → Jira)
+
+- Detect Urgent tasks automatically from Google Sheets
+- Send an immediate personalized email alert
+- Mark the task as Notified to prevent duplicate alerts
+- Wait and re-check the task status after a delay
+- If still unresolved → send a Telegram escalation
+- Automatically create a High Priority Jira ticket and send a Telegram message with the ticket details
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-API-EA4335?logo=gmail&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-API-34A853?logo=googlesheets&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Issues-0052CC?logo=jira&style=flat)
+![Telegram](https://img.shields.io/badge/Telegram-Bot_API-26A5E4?logo=telegram&style=flat)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Send-Alert-When-Task-Is-Urgent-in-Google-Sheets-with-Telegram-reminder)
+
+
 📬 Send One-Time Email Alerts from Google Sheets (Anti-Spam)
 
 - Trigger an email when a task’s Priority = Urgent in Google Sheets
