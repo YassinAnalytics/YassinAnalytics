@@ -6,7 +6,8 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
 ## 📝 Publications
 - [How I Used Machine Learning to Predict 41% of Project Delays Before They Happened](https://towardsdatascience.com/how-i-used-machine-learning-to-predict-41-of-project-delays-before-they-happened/)  
   *Published on Towards Data Science*
-
+- [The Product Health Score: How I Reduced Critical Incidents by 35% with Unified Monitoring and n8n Automation](https://towardsdatascience.com/the-product-health-score-how-i-reduced-critical-incidents-by-35-with-unified-monitoring-and-n8n-automation/)  
+  *Published on Towards Data Science*
 
 ## Featured Projects :
 🚨 Urgent Task Escalation (Google Sheets → Gmail → Telegram → Jira)
