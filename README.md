@@ -1,8 +1,7 @@
 ## Hi, I'm Yassin 👋
 Project Manager | Product & Data Enablement (PSM I, PSPO I)
 
-📍 Paris | Turning project complexity into measurable outcomes through agile delivery & analytics
-
+📍 Paris | Turning complex projects into measurable outcomes through agile delivery, automation & analytics
 ## 📝 Publications
 - [How I Used Machine Learning to Predict 41% of Project Delays Before They Happened](https://towardsdatascience.com/how-i-used-machine-learning-to-predict-41-of-project-delays-before-they-happened/)  
   *Published on Towards Data Science*
