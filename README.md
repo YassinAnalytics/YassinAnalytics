@@ -45,7 +45,7 @@ Telegram + Forms + Email → AI → Jira → Notion
 - Gmail
 - Normalize all inputs into a unified structure
 - AI-powered analysis:
- - Category (bug, feature, question…)
+ - - Category (bug, feature, question…)
  - Sentiment & pain level
  - Business impact & effort
  - Summary & acceptance criteria
