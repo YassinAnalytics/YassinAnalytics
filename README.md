@@ -10,6 +10,124 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
   *Published on Towards Data Science*
 
 ## Featured Projects :
+
+📊 Automated Product Health Monitoring
+
+- Anomaly Detection → AI Root Cause → Daily Reports
+- Daily monitoring of revenue & usage metrics
+- Detect anomalies using statistical baselines (not fixed thresholds)
+- Log incidents with severity and full context
+- Send alerts only when action is required (Slack & Email)
+- Generate AI-based root cause analysis & recommendations
+- Produce a daily Product Health Report for leadership
+- Optional Notion documentation for incidents & history
+
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Postgres](https://img.shields.io/badge/Postgres-Metrics_DB-336791?logo=postgresql&style=flat)
+![Analytics](https://img.shields.io/badge/Analytics-Anomaly_Detection-2F74C0?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-Root_Cause-412991?logo=openai&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Alerts-4A154B?logo=slack&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Reports-EA4335?logo=gmail&style=flat)
+![Notion](https://img.shields.io/badge/Notion-Documentation-000000?logo=notion&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Incident-0052CC?logo=jira&style=flat)
+
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automated-Product-Health-Monitor-with-Anomaly-Detection-AI-Root-Cause-Analysis/blob/main/README.md)
+
+🧠 Multi-Channel Feedback → Product Backlog
+
+Telegram + Forms + Email → AI → Jira → Notion
+
+- Collect user feedback from:
+- Telegram bot
+- Google Forms / Sheets
+- Gmail
+- Normalize all inputs into a unified structure
+- AI-powered analysis:
+ - Category (bug, feature, question…)
+ - Sentiment & pain level
+ - Business impact & effort
+ - Summary & acceptance criteria
+ - Compute a RICE-style priority score with tier weighting
+- Automatically:
+ - Create a Jira issue
+ - Generate a Notion documentation page
+ - Log analytics to Google Sheets
+ - Produce a monthly Product Intelligence Report with insights & trends
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Telegram](https://img.shields.io/badge/Telegram-Intake-26A5E4?logo=telegram&style=flat)
+![GoogleForms](https://img.shields.io/badge/Google_Forms-Intake-7248B9?logo=googleforms&style=flat)
+![GoogleSheets](https://img.shields.io/badge/Google_Sheets-Log-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Intake-EA4335?logo=gmail&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-Triage-412991?logo=openai&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Backlog-0052CC?logo=jira&style=flat)
+![Notion](https://img.shields.io/badge/Notion-Reporting-000000?logo=notion&style=flat)
+
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Multi-Channel-Feedback-to-Jira-Pipeline-with-AI-Analysis-Notion-Reporting/blob/main/README.md)
+
+🧪 Data Quality Monitoring
+
+- Notion Rules → SQL Checks → AI Diagnostics → Alerts
+- Centralize data quality rules in Notion (table, field, condition, severity)
+- Automatically convert rules into live SQL checks
+- Detect anomalies across your data warehouse
+- Aggregate results into a global data health score
+- Generate AI-powered root cause analysis & fix recommendations
+
+Create:
+- Notion run records
+- Optional Jira incidents
+- Slack / Email alerts
+- Silent execution when data is healthy (zero noise)
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Notion](https://img.shields.io/badge/Notion-Rules-000000?logo=notion&style=flat)
+![SQL](https://img.shields.io/badge/SQL-Checks-2F74C0?logo=databricks&style=flat)
+![Postgres](https://img.shields.io/badge/Postgres-Database-336791?logo=postgresql&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Analysis-412991?logo=openai&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Alerts-4A154B?logo=slack&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?logo=gmail&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Incident-0052CC?logo=jira&style=flat)
+
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Monitor-Data-Quality-with-Notion-Rules-SQL-Checks-AI-Powered-Alerts/blob/main/README.md)
+
+🔁 B2B SaaS Renewal Risk Management
+
+- CRM + Usage + Support → Churn Scoring → Playbooks
+- Daily detection of subscriptions expiring in J–30
+- Enrich accounts with:
+ - CRM data (HubSpot / Salesforce / Pipedrive)
+ - Product usage analytics
+ - Support tickets (Zendesk)
+ - Compute an internal churn risk score
+ - Route each account to an automated playbook:
+   🔴 High risk → Jira + Trello + Slack + Email escalation
+   🟠 Medium risk → Proactive CSM follow-up
+   🟢 Low risk → Light renewal reminder
+ - Log all decisions into a database for dashboards & analysis
+ - Send a daily renewal risk summary email
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![Postgres](https://img.shields.io/badge/Postgres-Database-336791?logo=postgresql&style=flat)
+![HubSpot](https://img.shields.io/badge/HubSpot-CRM-FF7A59?logo=hubspot&style=flat)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?logo=salesforce&style=flat)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-CRM-26292C?logo=pipedrive&style=flat)
+![Zendesk](https://img.shields.io/badge/Zendesk-Support-03363D?logo=zendesk&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Alerts-4A154B?logo=slack&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?logo=gmail&style=flat)
+![Trello](https://img.shields.io/badge/Trello-Tasks-0052CC?logo=trello&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Escalation-0052CC?logo=jira&style=flat)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Automate-B2B-SaaS-Renewal-Risk-Management-with-CRM-Support-Usage-Data/blob/main/README.md)
+
 🚨 Urgent Task Escalation (Google Sheets → Gmail → Telegram → Jira)
 
 - Detect Urgent tasks automatically from Google Sheets
