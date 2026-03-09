@@ -30,6 +30,8 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
 ![Notion](https://img.shields.io/badge/Notion-Roadmap-000000?logo=notion&style=flat)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-Feedback_Log-34A853?logo=googlesheets&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-Tester_Comms-EA4335?logo=gmail&style=flat)
+
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Triage-product-UAT-feedback-with-OpenAI-Jira-Slack-Notion-and-Google-Sheets/blob/main/README.md)
 
 🔄 AI UAT Feedback Triage with Notion Deduplication
@@ -48,6 +50,8 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
 ![Notion](https://img.shields.io/badge/Notion-Backlog_Dedupe-000000?logo=notion&style=flat)
 ![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?logo=slack&style=flat)
 ![Gmail](https://img.shields.io/badge/Gmail-Tester_Comms-EA4335?logo=gmail&style=flat)
+
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Triage-product-UAT-feedback-with-OpenAI-Notion-Slack-and-Gmail/blob/main/README.md)
 
 🚨 Critical Bug Auto-Escalation from UAT Feedback
@@ -65,6 +69,8 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
 ![OpenAI](https://img.shields.io/badge/OpenAI-AI_Detection-412991?logo=openai&style=flat)
 ![Jira](https://img.shields.io/badge/Jira-Bug_Escalation-0052CC?logo=jira&style=flat)
 ![Slack](https://img.shields.io/badge/Slack-Engineering_Alerts-4A154B?logo=slack&style=flat)
+
+
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Escalate-product-UAT-critical-bugs-with-OpenAI-Jira-and-Slack/blob/main/README.md)
 
 📊 Automated Product Health Monitoring
