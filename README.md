@@ -12,6 +12,61 @@ Project Manager | Product & Data Enablement (PSM I, PSPO I)
 
 ## Featured Projects :
 
+🔍 AI-Powered UAT Feedback Triage (Full Stack)
+- Webhook → AI Classification → Smart Routing → Closed Loop
+- Receive raw UAT feedback from any source (forms, Slack, internal tools)
+- AI classifies each item: Critical Bug, Feature Request, UX Improvement, or Noise
+- Confidence-based quality gate with automatic human-in-the-loop fallback
+- Route critical bugs to Jira, feature requests to Notion roadmap, UX items to design backlog
+- Log every feedback in Google Sheets for full traceability
+- Notify testers automatically via Slack or email with triage result
+- Return structured webhook response for downstream automation
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Triage-412991?logo=openai&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?logo=jira&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?logo=slack&style=flat)
+![Notion](https://img.shields.io/badge/Notion-Roadmap-000000?logo=notion&style=flat)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Feedback_Log-34A853?logo=googlesheets&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Tester_Comms-EA4335?logo=gmail&style=flat)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Triage-product-UAT-feedback-with-OpenAI-Jira-Slack-Notion-and-Google-Sheets/blob/main/README.md)
+
+🔄 AI UAT Feedback Triage with Notion Deduplication
+- Webhook → AI Classification → Notion Dedupe & Upsert → Tester Notification
+- Standardize incoming UAT feedback into a consistent, AI-ready structure
+- AI returns structured triage: type, severity, summary, suggested title, confidence score
+- Search Notion backlog by suggested title to prevent duplicate entries
+- Upsert logic: update existing item if found, create new entry otherwise
+- Automatic tester acknowledgement via Slack or Gmail
+- Structured webhook response payload for full traceability
+- Keep your Notion roadmap clean without manual duplicate hunting
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Triage-412991?logo=openai&style=flat)
+![Notion](https://img.shields.io/badge/Notion-Backlog_Dedupe-000000?logo=notion&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?logo=slack&style=flat)
+![Gmail](https://img.shields.io/badge/Gmail-Tester_Comms-EA4335?logo=gmail&style=flat)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Triage-product-UAT-feedback-with-OpenAI-Notion-Slack-and-Gmail/blob/main/README.md)
+
+🚨 Critical Bug Auto-Escalation from UAT Feedback
+- Webhook → AI Detection → Severity Validation → Jira + Slack Escalation
+- Detect critical bugs buried in unstructured UAT feedback using AI
+- Normalize and clean raw input into a consistent, AI-ready format
+- AI triage with structured output: type, severity, summary, confidence
+- Validated critical bugs auto-create Jira issues with full context
+- Instant engineering alert in Slack for immediate action
+- Tester notified automatically with escalation confirmation
+- Structured webhook response for full end-to-end traceability
+
+![Status: Completed](https://img.shields.io/badge/STATUS-COMPLETED-brightgreen)
+![n8n](https://img.shields.io/badge/n8n-Automation-6e0ad6?logo=n8n&style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI_Detection-412991?logo=openai&style=flat)
+![Jira](https://img.shields.io/badge/Jira-Bug_Escalation-0052CC?logo=jira&style=flat)
+![Slack](https://img.shields.io/badge/Slack-Engineering_Alerts-4A154B?logo=slack&style=flat)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassinAnalytics/Escalate-product-UAT-critical-bugs-with-OpenAI-Jira-and-Slack/blob/main/README.md)
+
 📊 Automated Product Health Monitoring
 
 - Anomaly Detection → AI Root Cause → Daily Reports
